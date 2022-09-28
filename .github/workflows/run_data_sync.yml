@@ -26,8 +26,8 @@ env:
   TITLE: 脂肪怪 Running
   MIN_GRID_DISTANCE: 10 # change min distance here
   TITLE_GRID: Over 10km Runs # also here
-  GITHUB_NAME: yihong0618
-  GITHUB_EMAIL: zouzou0208@gmail.com
+  GITHUB_NAME: kljin
+  GITHUB_EMAIL: 839501823@qq.com
 
 jobs:
   sync:
